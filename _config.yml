@@ -1,5 +1,5 @@
 name: It0n5/DakrshieldCS Blog
-plugins: - jekyll-include-cache
+plugins: jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
