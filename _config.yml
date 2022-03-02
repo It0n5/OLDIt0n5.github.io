@@ -20,6 +20,7 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
+layout: splash
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 collections:
